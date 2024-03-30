@@ -3,5 +3,5 @@
 
 void greetings()
 {
-    printf("Hello from archivo greetings");
+    printf("Hello from archivo greetings \n");
 }
